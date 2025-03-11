@@ -4,3 +4,9 @@ This repository contains projects built following the [roadmap.sh](https://roadm
 
 ## Project List
 [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
+
+<p align="left">
+	<a href="./basic-html-site/">
+		<img src="./assets/basic-html-site.png" alt="Basic HTML Website">
+	</a>
+</p>
