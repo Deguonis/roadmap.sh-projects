@@ -12,7 +12,7 @@ This repository contains projects built following the [roadmap.sh](https://roadm
 	</a>
 </p>
 
-<p align="left">
+<p align="right">
 	<a href="./changelog-component/">
 		<img width="48%" src="./assets/changelog-component.png" alt="Changelog Component">
 	</a>
