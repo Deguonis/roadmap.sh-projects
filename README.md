@@ -10,9 +10,6 @@ This repository contains projects built following the [roadmap.sh](https://roadm
 	<a href="./basic-html-site/">
 		<img width="48%" src="./assets/basic-html-site.png" alt="Basic HTML Website">
 	</a>
-</p>
-
-<p align="right">
 	<a href="./changelog-component/">
 		<img width="48%" src="./assets/changelog-component.png" alt="Changelog Component">
 	</a>
