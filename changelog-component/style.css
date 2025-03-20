@@ -1,0 +1,83 @@
+*,
+*::before,
+*::after {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	color: #000;
+	background-color: #a3a3a3;
+	font-size: 1.125rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	height: 100vh;
+	align-items: center;
+	gap: 1rem;
+}
+
+.container {
+	background-color: #f3f3f3;
+	border: 2px solid black;
+	border-radius: 1.563rem;
+	min-height: 70vh;
+	flex: 0 1 40rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.title-sub {
+	padding: 1rem;
+}
+
+.title,
+.subtitle {
+	text-align: center;
+	padding: 0.313rem;
+}
+
+.subtitle {
+	color: lightslategray;
+	font-size: 1rem;
+}
+
+.changelog-btn {
+	align-self: center;
+	padding: .616rem;
+}
+
+.btn {
+	padding: 0.616rem 2rem;
+	background-color: black;
+	border-radius: 1rem;
+	color: white;
+	font-size: 1.125rem;
+}
+
+.timeline-item {
+	display: flex;
+	justify-content: center;
+	gap: 2rem;
+}
+
+.timeline-date {
+	flex: 1 1 30%;
+	text-align: right;
+	align-self: center;
+}
+
+.timeline-dot {
+	align-self: center;
+    width: .875rem;
+    height: .875rem;
+    background-color: #333;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.timeline-content {
+	flex: 1 1 65%;
+}
